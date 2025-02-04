@@ -47,5 +47,5 @@ Ce fichier de préconfiguration permet une installation automatisée de Debian a
 Ce fichier doit être utilisé lors d'une installation automatisée de Debian avec `preseed`. Assurez-vous de le charger correctement dans l'installeur pour appliquer ces paramètres automatiquement.
 
 ## Avertissement
-⚠ **Ce fichier contient des informations sensibles telles que des identifiants et des mots de passe en clair. Veillez à ne pas le partager publiquement et à le stocker en lieu sûr.**
+⚠ **Ce programme n'est utilisable que pour du debian 12, et il est important de sauvegarder vos donné si vous l'utilisé sur votre machine directement pour éviter une suppression total de vos donnée**
 
